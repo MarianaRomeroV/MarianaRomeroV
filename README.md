@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 
 ![image](https://user-images.githubusercontent.com/114431177/192647748-37cce688-f9eb-4648-99c6-d1c8ff8e5c6c.png)
-
+## Connect with me:
+<p align="left">
+<a href="https://www.instagram.com/nicani_24?r=nametag"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="NicoleAlvarez" height="30" width="30" /></a>
+  
 
