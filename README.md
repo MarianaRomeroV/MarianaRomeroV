@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩‍🔬 
+👩‍🔬 I love chemical engineering and everything that can be done through it
 
 
 ![image](https://user-images.githubusercontent.com/114431177/192647748-37cce688-f9eb-4648-99c6-d1c8ff8e5c6c.png)
